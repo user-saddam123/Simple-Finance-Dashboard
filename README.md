@@ -7,7 +7,6 @@
 
 ![Screenshot 2024-03-14 111219](https://github.com/user-saddam123/Simple-Finance-Dashboard/assets/123800896/c307be8f-7d03-416a-a0c7-9f7f0584c23b)
 
-#
 
 ## Objective:
 The objective of this dashboard is to provide a comprehensive financial overview using advanced analysis techniques and visually appealing representations. It aims to empower users with insights into key financial metrics, trends, and components through interactive visualizations.
